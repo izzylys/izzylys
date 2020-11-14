@@ -10,7 +10,7 @@ I used to spend [all my time](https://www.eng.ed.ac.uk/about/news/20200625/women
 
 I'm currently a software engineer at [speckle](https://speckle.systems/) -- the open source data platform for architecture, engineering, and construction.
 
-peek at what I've been working on lately:
+peek at what we've been cooking up lately:
 
 <a href="https://github.com/specklesystems/speckle-sharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-sharp&theme=tokyonight" />
@@ -18,11 +18,6 @@ peek at what I've been working on lately:
 <a href="https://github.com/specklesystems/speckle-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-server&theme=tokyonight" />
 </a>
-
-<br/>
-
-[![izzylys github stats](https://github-readme-stats.vercel.app/api?username=izzylys&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [linkedin-icon]: https://user-images.githubusercontent.com/7717434/99145497-508f7d00-2667-11eb-9651-ce3e73f56190.png
 [insta-icon]: https://user-images.githubusercontent.com/7717434/99145498-51281380-2667-11eb-807e-dcf5f989bba7.png
