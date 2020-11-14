@@ -28,4 +28,4 @@ peek at what we've been cooking up lately:
 [linkedin]: https://www.linkedin.com/in/izzy-lyseggen/ "check out my linkedin"
 [insta]: https://www.instagram.com/izzy.lys/ "izzy.lys on instagram"
 [twitter]: https://twitter.com/izzylys "@izzylys on twitter"
-[discord]: https://discord.com/users/544419487005540363 "izzylys#0490 - link doesn't work as discord doesn't have profile links"
+[discord]: https://discord.com/users/544419487005540363 "izzylys#0490 - link doesn't work"
