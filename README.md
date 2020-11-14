@@ -2,7 +2,7 @@
 
 hiya 👋
 
-I'm a software engineer from oslo, norway / palo alto, california.
+I'm a software engineer from oslo, norway / palo alto, california. I work mainly in c#, python, and javascript.
 
 I graduated mid-pandemic from the University of Edinburgh with an meng in mechanical engineering. 
 
