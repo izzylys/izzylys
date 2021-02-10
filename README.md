@@ -15,8 +15,8 @@ peek at what we've been cooking up lately:
 <a href="https://github.com/specklesystems/speckle-sharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-sharp&theme=tokyonight" />
 </a>
-<a href="https://github.com/specklesystems/speckle-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-server&theme=tokyonight" />
+<a href="https://github.com/specklesystems/speckle-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-py&theme=tokyonight" />
 </a>
 
 [linkedin-icon]: https://user-images.githubusercontent.com/7717434/99145497-508f7d00-2667-11eb-9651-ce3e73f56190.png
