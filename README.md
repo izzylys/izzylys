@@ -4,24 +4,6 @@ hiya 👋
 
 I'm a software engineer from oslo, norway / palo alto, california. I work mainly in c#, python, and javascript.
 
-I graduated mid-pandemic from the University of Edinburgh with an meng in mechanical engineering. 
-
-I used to spend [all my time](https://www.eng.ed.ac.uk/about/news/20200625/women-engineering-edinburgh-university-formula-student) designing and building race cars with [edinburgh university formula student](https://eufs.eusa.ed.ac.uk/ai). I have previously worked in MEP and automation at Arup and Buro Happold.
-
-I'm currently a software engineer at [speckle](https://speckle.systems/) -- the open source data platform for architecture, engineering, and construction.
-
-peek at what we've been cooking up lately:
-
-<a href="https://github.com/specklesystems/speckle-sharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-sharp&theme=tokyonight" />
-</a>
-<a href="https://github.com/specklesystems/specklepy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=specklepy&theme=tokyonight" />
-</a>
-<a href="https://github.com/specklesystems/speckle-blender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=specklesystems&repo=speckle-blender&theme=tokyonight" />
-</a>
-
 [linkedin-icon]: https://user-images.githubusercontent.com/7717434/99145497-508f7d00-2667-11eb-9651-ce3e73f56190.png
 [insta-icon]: https://user-images.githubusercontent.com/7717434/99145498-51281380-2667-11eb-807e-dcf5f989bba7.png
 [twitter-icon]: https://user-images.githubusercontent.com/7717434/99145499-51c0aa00-2667-11eb-95df-1b987c9a2c9d.png
